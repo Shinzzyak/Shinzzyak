@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Avres (Shinzzyak)
+# Avres · @Shinzzyak
 
 **Building AI gateways, automation tooling, and Deutschup — a German-learning app.**
 
-Python · TypeScript · React
+`Python` · `TypeScript` · `React` · `Go`
 
 [![GitHub followers](https://img.shields.io/github/followers/Shinzzyak?style=flat-square&color=white&labelColor=161b22&label=Followers&logo=github)](https://github.com/Shinzzyak)
 &nbsp;
@@ -14,52 +14,51 @@ Python · TypeScript · React
 
 ---
 
-## 🧭 What I Do
+## 🧭 What I'm building
 
-- **AI gateways** — OpenAI-compatible proxy gateways with multi-provider routing and auto-fallback
-- **Automation tooling** — scrapers, notifier bots, background workers, and webhook bridges
-- **Deutschup** — a German-learning app built with React 19, Vite, TypeScript, Clerk, Supabase, and Gemini AI
-
----
-
-## 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| [**Deutschup**](https://github.com/Shinzzyak/Deutschup) | German-learning app — React 19 · Vite · TypeScript · Clerk auth · Supabase · Gemini AI · Cloudflare Pages |
-| [**proxy-scraper**](https://github.com/Shinzzyak/proxy-scraper) | Free proxy scraper with validation, scoring, geolocation, Telegram public-preview scraping, SQLite pool management, and GitHub snapshot exports |
-| [**SignalLink**](https://github.com/Shinzzyak/SignalLink) | Lightweight open-source webhook bridge for forwarding trading alerts to Telegram |
-| [**Auto-Clip**](https://github.com/Shinzzyak/Auto-Clip) | Redis RQ background worker for automated clip processing pipelines |
-| [**daily-notifier-bot**](https://github.com/Shinzzyak/daily-notifier-bot) | Daily Gemini-powered notifier bot that checks available AI models and reports changes |
+- **AI gateways** — [VansRouter](https://github.com/Shinzzyak/VansRouter): free AI coding router (Claude Code, Codex, Cursor, Cline, Copilot → 40+ providers, auto-fallback) · [AMRouter](https://github.com/Shinzzyak/AMRouter): self-hosted OpenAI-compatible gateway with Cloudflare Workers automation
+- **Automation tooling** — [proxy-scraper](https://github.com/Shinzzyak/proxy-scraper) · [promptvault-audit](https://github.com/Shinzzyak/promptvault-audit) · [SignalLink](https://github.com/Shinzzyak/SignalLink) · [Auto-Clip](https://github.com/Shinzzyak/Auto-Clip) · [daily-notifier-bot](https://github.com/Shinzzyak/daily-notifier-bot) · [mekithil](https://github.com/Shinzzyak/mekithil)
+- **Deutschup** — German-learning app (React 19 · Vite · TypeScript · Clerk · Supabase · Gemini AI)
 
 ---
 
-## 🛠️ Tech Stack
+## 📚 Learning notes
 
-**Languages** — Python · TypeScript · Java
+Curated roadmaps, course lists, and tech analyses → **[dev-learning-notes](https://github.com/Shinzzyak/dev-learning-notes)**
 
-**Frontend** — React 19 · Vite
+---
 
-**Backend / Infra** — FastAPI · Supabase · Redis · RQ · Docker · Cloudflare Pages
+## 🛠️ Tech stack
 
-**AI** — OpenAI-compatible APIs · Gemini
+- **Languages** — Python · TypeScript · Go
+- **Frontend** — React 19 · Vite
+- **Backend / Infra** — FastAPI · Supabase · Redis · RQ · Docker · Cloudflare Pages
+- **AI** — OpenAI-compatible APIs · Gemini
+
+---
+
+## 📈 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shinzzyak&theme=dark&show_icons=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinzzyak&theme=dark&layout=compact)
 
 ---
 
 ## 💡 Principles
 
 ```
-→  Write code others can read
-→  Document everything
-→  Open source by default
-→  Ship it, then improve it
+→ Write code others can read
+→ Document everything
+→ Open source by default
+→ Ship it, then improve it
 ```
 
 ---
 
 <div align="center">
 
-*Feel free to open an issue, fork a repo, or just say hi.*
+*Open an issue, fork a repo, or just say hi.*
 
 [![GitHub](https://img.shields.io/badge/@Shinzzyak-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/Shinzzyak)
 
